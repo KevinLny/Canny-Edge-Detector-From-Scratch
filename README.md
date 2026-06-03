@@ -9,7 +9,7 @@ This repository contains a full, native implementation of the **Canny Edge Detec
 OpenCV was strictly confined to basic Image Input/Output operations and UI display infrastructure, ensuring that all core mathematical operations—from raw pixel convolutions to continuous edge tracing—were designed and implemented manually.
 
 <p align="center">
-  <img src="./img/schema_processeur.png" alt="exemple_of_gui" width="600">
+  <img src="./img/exemple_of_gui.png" alt="exemple_of_gui" width="600">
 </p>
 
 ---
